@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**4lanPz/4lanPz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola, Soy Alan ✨
+Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, la robotica e inteligencia artificial y los videojuegos.
+Aun soy estudiante en constante búsqueda de conocimiento que me ayude a conseguir mis metas.
+## Mis conocimientos son:
+- CSS
+- HTML
+- JavaScript
+- SQL Server
+- MySQL
+- C++
+- Python
+## Redes:
+- Mi Perfil de <a href="https://www.linkedin.com/in/alanst02/" tarjet="_blank">LinkedIn</a>
+## Mi Setup
+Octubre 2023
