@@ -23,9 +23,6 @@ Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, l
 ### 😂 Memes Random
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=4lanPz&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## Mi Setup 
   Octubre 2023
   ![setup_small](https://github.com/4lanPz/4lanPz/assets/117743495/bae2327a-0cc4-4258-9141-2ad3a1d41eb9)
@@ -33,6 +30,8 @@ Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, l
 
   ## Si me quieres apoyar puedes donar en mi Paypal 💰
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Alanstvn) 
+  ## Numero Visitas
+  [![](https://visitcount.itsvg.in/api?id=4lanPz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
