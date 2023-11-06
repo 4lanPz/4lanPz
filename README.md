@@ -24,7 +24,9 @@ Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, l
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
   ## Mi Setup 
-  Octubre 2023
+
+  # Octubre 2023
+
   ![setup_small](https://github.com/4lanPz/4lanPz/assets/117743495/bae2327a-0cc4-4258-9141-2ad3a1d41eb9)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
