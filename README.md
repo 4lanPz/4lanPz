@@ -1,7 +1,7 @@
 # Hola, Soy Alan ✨
 Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, la robotica e inteligencia artificial y los videojuegos. Aun soy estudiante en constante búsqueda de conocimiento que me ayude a conseguir mis metas.
 
-![https://github.com/4lanPz/4lanPz/assets/117743495/9090e6c9-0d55-483b-8967-7b1df0e1c0d4]
+![profile_small](https://github.com/4lanPz/4lanPz/assets/117743495/9090e6c9-0d55-483b-8967-7b1df0e1c0d4)
 
 ## 📃 Portafolio Digital
 
