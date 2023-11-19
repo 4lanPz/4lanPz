@@ -6,7 +6,7 @@ Mi Portafolio Digital
 
 https://4lanpz.github.io/
 
-![perfil_small](https://github.com/4lanPz/4lanPz/assets/117743495/9090e6c9-0d55-483b-8967-7b1df0e1c0d4)
+[![Portafolio](https://cdn-icons-png.flaticon.com/512/8522/8522275.png)](https://github.com/4lanPz/4lanPz/assets/117743495/9090e6c9-0d55-483b-8967-7b1df0e1c0d4)
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanst02) 
