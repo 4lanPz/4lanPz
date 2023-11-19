@@ -3,10 +3,7 @@ Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, l
 
 Mi Portafolio Digital
 
-
 https://4lanpz.github.io/
-
-[![Portafolio](📄)](https://github.com/4lanPz/4lanPz/assets/117743495/9090e6c9-0d55-483b-8967-7b1df0e1c0d4)
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanst02) 
