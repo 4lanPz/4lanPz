@@ -1,5 +1,6 @@
 # 💫 About Me:
-Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, la robótica e inteligencia artificial y los videojuegos.
+Soy desarrollador de software al que le apasiona la tecnología, la robótica, la IA y los videojuegos.
+I am a software developer who is passionate about technology, robotics, AI and videogames.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1bd40b04-97a6-4cba-9477-1f84b418d02a" />
