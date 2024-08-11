@@ -1,6 +1,9 @@
 # 💫 About Me:
 Soy tecnólogo en desarrollador de software al que le apasiona la tecnología, la robótica e inteligencia artificial y los videojuegos.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bd40b04-97a6-4cba-9477-1f84b418d02a" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ahVgcHCVQn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4lanPz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanst02) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Cibehr) 
